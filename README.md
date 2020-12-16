@@ -7,3 +7,5 @@ keras
 nlpcda
 pandas
 bert4keras
+
+train_aug.txt 和 val_aug是经过pdata代码处理过后的训练验证数据，可直接用于训练
